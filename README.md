@@ -1,4 +1,4 @@
-Photo website
+## Photo website
 
 A simple project to practice git
 
