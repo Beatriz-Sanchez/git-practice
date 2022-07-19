@@ -1,6 +1,6 @@
 # Photo website
 
-A simple project to practice git
+A simple project I created just to practice git
 
 Big Picture by HTML5 UP
 
